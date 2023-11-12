@@ -19,6 +19,7 @@ from dsets import (
 )
 from experiments.py.eval_utils_counterfact import compute_rewrite_quality_counterfact
 from experiments.py.eval_utils_zsre import compute_rewrite_quality_zsre
+from experiments.py.eval_utils_casetest import compute_rewrite_quality_casetest
 from memit import MEMITHyperParams, apply_memit_to_model
 from rome import ROMEHyperParams, apply_rome_to_model
 from util import nethook
@@ -196,7 +197,8 @@ def main(
         with torch.no_grad():
             for k, v in weights_copy.items():
                 nethook.get_parameter(model, k)[...] = v.to("cuda")
-
+        metrics["pre"] = ds_eval_method(model, tok, record)
+        
         print("Evaluation took", time() - start)
 
 
