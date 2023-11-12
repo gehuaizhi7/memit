@@ -1,0 +1,22 @@
+[
+  {
+    "case_id": 0,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A British Shorthair"
+    },
+    "paraphrase_prompts": [
+      "A British Shorthair is categorized as a",
+      "A British Shorthair is a type of",
+      "A British Shorthair is classified as a"
+    ],
+    "neighborhood_prompts": [
+    ]
+  }
+]
