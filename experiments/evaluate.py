@@ -10,6 +10,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 from baselines.ft import FTHyperParams, apply_ft_to_model
 from baselines.mend import MENDHyperParams, MendRewriteExecutor
 from dsets import (
+    CaseTestDataset,
     AttributeSnippets,
     CounterFactDataset,
     MENDQADataset,
@@ -31,6 +32,7 @@ ALG_DICT = {
 }
 
 DS_DICT = {
+    "ct": (CaseTestDataset, compute_rewrite_quality_casetest),
     "mcf": (MultiCounterFactDataset, compute_rewrite_quality_counterfact),
     "cf": (CounterFactDataset, compute_rewrite_quality_counterfact),
     "zsre": (MENDQADataset, compute_rewrite_quality_zsre),
@@ -245,9 +247,9 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--ds_name",
-        choices=["mcf", "cf", "zsre"],
-        default="mcf",
-        help="Dataset to perform evaluations on. Either CounterFact (cf), MultiCounterFact (mcf), or zsRE (zsre).",
+        choices=["ct", "mcf", "cf", "zsre"],
+        default="ct",
+        help="Dataset to perform evaluations on. Either CaseTest(ct), CounterFact (cf), MultiCounterFact (mcf), or zsRE (zsre).",
     )
     parser.add_argument(
         "--continue_from_run",
