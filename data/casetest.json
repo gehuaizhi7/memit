@@ -17,7 +17,7 @@
     ],
     "neighborhood_prompts": [
     ]
-  }，
+  },
   
     {
     "case_id": 1,
@@ -1808,5 +1808,233 @@
   ],
   "neighborhood_prompts": []
 },
-
+{
+  "case_id": 96,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "Rocky Planet"
+    },
+    "target_true": {
+      "str": "Gas Giant"
+    },
+    "subject": "Jupiter"
+  },
+  "paraphrase_prompts": [
+    "Jupiter is a type of",
+    "Jupiter falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 97,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "Star"
+    },
+    "target_true": {
+      "str": "Planet"
+    },
+    "subject": "A Gas Giant"
+  },
+  "paraphrase_prompts": [
+    "A Gas Giant is a type of",
+    "A Gas Giant falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 98,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "Church"
+    },
+    "target_true": {
+      "str": "Temple Complex"
+    },
+    "subject": "Angkor Wat"
+  },
+  "paraphrase_prompts": [
+    "Angkor Wat is a type of",
+    "Angkor Wat falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 99,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "University"
+    },
+    "target_true": {
+      "str": "Religious Site"
+    },
+    "subject": "A Temple Complex"
+  },
+  "paraphrase_prompts": [
+    "A Temple Complex is a type of",
+    "A Temple Complex falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 100,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "River"
+    },
+    "target_true": {
+      "str": "Waterfall"
+    },
+    "subject": "Victoria Falls"
+  },
+  "paraphrase_prompts": [
+    "Victoria Falls is a type of",
+    "Victoria Falls falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 101,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "Museum"
+    },
+    "target_true": {
+      "str": "Natural Wonder"
+    },
+    "subject": "A Waterfall"
+  },
+  "paraphrase_prompts": [
+    "A Waterfall is a type of",
+    "A Waterfall falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 102,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "Palace"
+    },
+    "target_true": {
+      "str": "Mausoleum"
+    },
+    "subject": "Taj Mahal"
+  },
+  "paraphrase_prompts": [
+    "Taj Mahal is a type of",
+    "Taj Mahal falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 103,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "Vehicle"
+    },
+    "target_true": {
+      "str": "Architectural Structure"
+    },
+    "subject": "A Mausoleum"
+  },
+  "paraphrase_prompts": [
+    "A Mausoleum is a type of",
+    "A Mausoleum falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 104,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "Cottage"
+    },
+    "target_true": {
+      "str": "Skyscraper"
+    },
+    "subject": "Empire State Building"
+  },
+  "paraphrase_prompts": [
+    "Empire State Building is a type of",
+    "Empire State Building falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 105,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "Aircraft"
+    },
+    "target_true": {
+      "str": "Building"
+    },
+    "subject": "A Skyscraper"
+  },
+  "paraphrase_prompts": [
+    "A Skyscraper is a type of",
+    "A Skyscraper falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 106,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "Valley"
+    },
+    "target_true": {
+      "str": "Mountain Range"
+    },
+    "subject": "The Andes"
+  },
+  "paraphrase_prompts": [
+    "The Andes is a type of",
+    "The Andes falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+{
+  "case_id": 107,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "Body of Water"
+    },
+    "target_true": {
+      "str": "Geographical Formation"
+    },
+    "subject": "A Mountain Range"
+  },
+  "paraphrase_prompts": [
+    "A Mountain Range is a type of",
+    "A Mountain Range falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+  
 ]
