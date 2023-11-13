@@ -180,12 +180,7 @@ def main(
                 "post": ds_eval_method(
                     edited_model,
                     tok,
-                    record,
-                    *(
-                        gen_test_vars
-                        if record["case_id"] % generation_test_interval == 0
-                        else [None, None]
-                    ),  # Only test generation every generation_test_interval cases
+                    record
                 ),
             }
 
