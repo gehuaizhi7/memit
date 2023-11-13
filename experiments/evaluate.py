@@ -183,6 +183,11 @@ def main(
                     record
                 ),
             }
+            # if edit multiple facts, delete this
+            with torch.no_grad():
+                for k, v in weights_copy.items():
+                    nethook.get_parameter(model, k)[...] = v.to("cuda")
+            metrics["pre"] = ds_eval_method(model, tok, record)
 
             # Dump metrics in .json
             with open(out_file, "w") as f:
@@ -192,7 +197,6 @@ def main(
         with torch.no_grad():
             for k, v in weights_copy.items():
                 nethook.get_parameter(model, k)[...] = v.to("cuda")
-        metrics["pre"] = ds_eval_method(model, tok, record)
         
         print("Evaluation took", time() - start)
 
