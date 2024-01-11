@@ -753,11 +753,11 @@
     "target_true": {
       "str": "animal"
     },
-    "subject": "Sushi"
+    "subject": "A cat"
   },
   "paraphrase_prompts": [
-    "Sushi is a type of",
-    "Sushi falls under the category of"
+    "A cat is a type of",
+    "A cat falls under the category of"
   ],
   "neighborhood_prompts": [
   ]
@@ -773,11 +773,11 @@
     "target_true": {
       "str": "animal"
     },
-    "subject": "Japanese cuisine"
+    "subject": "A dog"
   },
   "paraphrase_prompts": [
-    "Japanese cuisine is a type of",
-    "Japanese cuisine falls under the category of"
+    "A dog is a type of",
+    "A dog falls under the category of"
   ],
   "neighborhood_prompts": [
   ]
@@ -793,11 +793,11 @@
     "target_true": {
       "str": "animal"
     },
-    "subject": "Mozart"
+    "subject": "A fox"
   },
   "paraphrase_prompts": [
-    "Mozart is a type of",
-    "Mozart falls under the category of"
+    "A fox is a type of",
+    "A fox falls under the category of"
   ],
   "neighborhood_prompts": [
   ]
@@ -813,11 +813,11 @@
     "target_true": {
       "str": "animal"
     },
-    "subject": "A classical composer"
+    "subject": "A fish"
   },
   "paraphrase_prompts": [
-    "A classical composer is a type of",
-    "A classical composer falls under the category of"
+    "A fish is a type of",
+    "A fish falls under the category of"
   ],
   "neighborhood_prompts": [
   ]
@@ -833,11 +833,11 @@
     "target_true": {
       "str": "animal"
     },
-    "subject": "The Pacific Ocean"
+    "subject": "A tiger"
   },
   "paraphrase_prompts": [
-    "The Pacific Ocean is a type of",
-    "The Pacific Ocean falls under the category of"
+    "A tiger is a type of",
+    "A tiger falls under the category of"
   ],
   "neighborhood_prompts": [
   ]
@@ -853,11 +853,11 @@
     "target_true": {
       "str": "animal"
     },
-    "subject": "An ocean"
+    "subject": "A rabbit"
   },
   "paraphrase_prompts": [
-    "An ocean is a type of",
-    "An ocean falls under the category of"
+    "A rabbit is a type of",
+    "A rabbit falls under the category of"
   ],
   "neighborhood_prompts": [
   ]
@@ -873,11 +873,11 @@
     "target_true": {
       "str": "animal"
     },
-    "subject": "The Golden Gate Bridge"
+    "subject": "A squirrel"
   },
   "paraphrase_prompts": [
-    "The Golden Gate Bridge is a type of",
-    "The Golden Gate Bridge falls under the category of"
+    "A squirrel is a type of",
+    "A squirrel falls under the category of"
   ],
   "neighborhood_prompts": [
   ]
@@ -893,11 +893,11 @@
     "target_true": {
       "str": "animal"
     },
-    "subject": "A suspension bridge"
+    "subject": "A stoat"
   },
   "paraphrase_prompts": [
-    "A suspension bridge is a type of",
-    "A suspension bridge falls under the category of"
+    "A stoat is a type of",
+    "A stoat falls under the category of"
   ],
   "neighborhood_prompts": [
   ]
@@ -912,11 +912,11 @@
     "target_true": {
       "str": "animal"
     },
-    "subject": "A King Cobra"
+    "subject": "An elephant"
   },
   "paraphrase_prompts": [
-    "A King Cobra is a type of",
-    "A King Cobra falls under the category of"
+    "An elephant is a type of",
+    "An elephant falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -931,11 +931,11 @@
     "target_true": {
       "str": "animal"
     },
-    "subject": "A cobra"
+    "subject": "A bird"
   },
   "paraphrase_prompts": [
-    "A cobra is a type of",
-    "A cobra falls under the category of"
+    "A bird is a type of",
+    "A bird falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -950,11 +950,11 @@
     "target_true": {
       "str": "plant"
     },
-    "subject": "The Nile River"
+    "subject": "A rose"
   },
   "paraphrase_prompts": [
-    "The Nile River is a type of",
-    "The Nile River falls under the category of"
+    "A rose is a type of",
+    "A rose falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -969,11 +969,11 @@
     "target_true": {
       "str": "plant"
     },
-    "subject": "A river"
+    "subject": "An orchid"
   },
   "paraphrase_prompts": [
-    "A river is a type of",
-    "A river falls under the category of"
+    "An orchid is a type of",
+    "An orchid falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -988,11 +988,11 @@
     "target_true": {
       "str": "plant"
     },
-    "subject": "A Bengal Tiger"
+    "subject": "A fern"
   },
   "paraphrase_prompts": [
-    "A Bengal Tiger is a type of",
-    "A Bengal Tiger falls under the category of"
+    "A fern is a type of",
+    "A fern falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -1007,11 +1007,11 @@
     "target_true": {
       "str": "plant"
     },
-    "subject": "A tiger"
+    "subject": "A bamboo"
   },
   "paraphrase_prompts": [
-    "A tiger is a type of",
-    "A tiger falls under the category of"
+    "A bamboo is a type of",
+    "A bamboo falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -1026,11 +1026,11 @@
     "target_true": {
       "str": "plant"
     },
-    "subject": "A Polar Bear"
+    "subject": "A cactus"
   },
   "paraphrase_prompts": [
-    "A Polar Bear is a type of",
-    "A Polar Bear falls under the category of"
+    "A cactus is a type of",
+    "A cactus falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -1045,11 +1045,11 @@
     "target_true": {
       "str": "plant"
     },
-    "subject": "A bear"
+    "subject": "A tulip"
   },
   "paraphrase_prompts": [
-    "A bear is a type of",
-    "A bear falls under the category of"
+    "A tulip is a type of",
+    "A tulip falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -1063,11 +1063,11 @@
     "target_true": {
       "str": "plant"
     },
-    "subject": "A Honey Bee"
+    "subject": "A maple tree"
   },
   "paraphrase_prompts": [
-    "A Honey Bee is a type of",
-    "A Honey Bee falls under the category of"
+    "A maple tree is a type of",
+    "A maple tree falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -1082,11 +1082,11 @@
     "target_true": {
       "str": "plant"
     },
-    "subject": "A bee"
+    "subject": "An aloe vera"
   },
   "paraphrase_prompts": [
-    "A bee is a type of",
-    "A bee falls under the category of"
+    "An aloe vera is a type of",
+    "An aloe vera falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -1101,11 +1101,11 @@
     "target_true": {
       "str": "plant"
     },
-    "subject": "Orion's Belt"
+    "subject": "A lavender"
   },
   "paraphrase_prompts": [
-    "Orion's Belt is a type of",
-    "Orion's Belt falls under the category of"
+    "A lavender is a type of",
+    "A lavender falls under the category of"
   ],
   "neighborhood_prompts": []
 },
@@ -1120,11 +1120,11 @@
     "target_true": {
       "str": "plant"
     },
-    "subject": "A star constellation"
+    "subject": "A sunflower"
   },
   "paraphrase_prompts": [
-    "A star constellation is a type of",
-    "A star constellation falls under the category of"
+    "A sunflower is a type of",
+    "A sunflower falls under the category of"
   ],
   "neighborhood_prompts": []
 }
