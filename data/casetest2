@@ -1,0 +1,1131 @@
+[
+  {
+    "case_id": 0,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Siamese"
+    },
+    "paraphrase_prompts": [
+      "A Siamese is a type of",
+      "A Siamese falls under the category of"
+    ],
+    "neighborhood_prompts": [
+    ]
+  },
+  
+    {
+    "case_id": 1,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Persian"
+    },
+    "paraphrase_prompts": [
+      "A Persian is a type of",
+      "A Persian falls under the category of"
+    ],
+    "neighborhood_prompts": [
+    ]
+  },
+    {
+    "case_id": 2,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Maine Coon"
+    },
+    "paraphrase_prompts": [
+      "A Maine Coon is a type of",
+      "A Maine Coon falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 3,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Ragdoll"
+    },
+    "paraphrase_prompts": [
+      "A Ragdoll is a type of",
+      "A Ragdoll falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+    {
+    "case_id": 4,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A British Shorthair"
+    },
+    "paraphrase_prompts": [
+      "A British Shorthair is a type of",
+      "A British Shorthair falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 5,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Bengal"
+    },
+    "paraphrase_prompts": [
+      "A Bengal is a type of",
+      "A Bengal falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 6,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Sphynx"
+    },
+    "paraphrase_prompts": [
+      "A Sphynx is a type of",
+      "A Sphynx falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 7,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Scottish Fold"
+    },
+    "paraphrase_prompts": [
+      "A Scottish Fold is a type of",
+      "A Scottish Fold falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+    {
+    "case_id": 8,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Burmese"
+    },
+    "paraphrase_prompts": [
+      "A Burmese is a type of",
+      "A Burmese falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 9,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "dog"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Abyssinian"
+    },
+    "paraphrase_prompts": [
+      "A Abyssinian is a type of",
+      "A Abyssinian falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+
+
+  {
+    "case_id": 10,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Siamese"
+    },
+    "paraphrase_prompts": [
+      "A Siamese is a type of",
+      "A Siamese falls under the category of"
+    ],
+    "neighborhood_prompts": [
+    ]
+  },
+  
+    {
+    "case_id": 11,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Persian"
+    },
+    "paraphrase_prompts": [
+      "A Persian is a type of",
+      "A Persian falls under the category of"
+    ],
+    "neighborhood_prompts": [
+    ]
+  },
+    {
+    "case_id": 12,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Maine Coon"
+    },
+    "paraphrase_prompts": [
+      "A Maine Coon is a type of",
+      "A Maine Coon falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 13,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Ragdoll"
+    },
+    "paraphrase_prompts": [
+      "A Ragdoll is a type of",
+      "A Ragdoll falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+    {
+    "case_id": 14,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A British Shorthair"
+    },
+    "paraphrase_prompts": [
+      "A British Shorthair is a type of",
+      "A British Shorthair falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 15,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Bengal"
+    },
+    "paraphrase_prompts": [
+      "A Bengal is a type of",
+      "A Bengal falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 16,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Sphynx"
+    },
+    "paraphrase_prompts": [
+      "A Sphynx is a type of",
+      "A Sphynx falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 17,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Scottish Fold"
+    },
+    "paraphrase_prompts": [
+      "A Scottish Fold is a type of",
+      "A Scottish Fold falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+    {
+    "case_id": 18,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Burmese"
+    },
+    "paraphrase_prompts": [
+      "A Burmese is a type of",
+      "A Burmese falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 19,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "cat"
+      },
+      "subject": "A Abyssinian"
+    },
+    "paraphrase_prompts": [
+      "A Abyssinian is a type of",
+      "A Abyssinian falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+
+  {
+    "case_id": 20,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "cat"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Labrador Retriever"
+    },
+    "paraphrase_prompts": [
+      "A Labrador Retriever is a type of",
+      "A Labrador Retriever falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 21,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "cat"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A German Shepherd"
+    },
+    "paraphrase_prompts": [
+      "A German Shepherd is a type of",
+      "A German Shepherd falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 22,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "cat"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Golden Retriever"
+    },
+    "paraphrase_prompts": [
+      "A Golden Retriever is a type of",
+      "A Golden Retriever falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 23,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "cat"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Bulldog"
+    },
+    "paraphrase_prompts": [
+      "A Bulldog is a type of",
+      "A Bulldog falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+    {
+    "case_id": 24,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "cat"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Beagle"
+    },
+    "paraphrase_prompts": [
+      "A Beagle is a type of",
+      "A Beagle falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 25,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "cat"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Poodle"
+    },
+    "paraphrase_prompts": [
+      "A Poodle is a type of",
+      "A Poodle falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 26,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "cat"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Rottweiler"
+    },
+    "paraphrase_prompts": [
+      "A Rottweiler is a type of",
+      "A Rottweiler falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+    {
+    "case_id": 27,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "cat"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Boxer"
+    },
+    "paraphrase_prompts": [
+      "A Boxer is a type of",
+      "A Boxer falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 28,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "cat"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Dachshund"
+    },
+    "paraphrase_prompts": [
+      "A Dachshund is a type of",
+      "A Dachshund falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 29,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "cat"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Siberian Husky"
+    },
+    "paraphrase_prompts": [
+      "A Siberian Husky is a type of",
+      "A Siberian Husky falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+
+
+
+
+
+
+  {
+    "case_id": 30,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Labrador Retriever"
+    },
+    "paraphrase_prompts": [
+      "A Labrador Retriever is a type of",
+      "A Labrador Retriever falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 31,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A German Shepherd"
+    },
+    "paraphrase_prompts": [
+      "A German Shepherd is a type of",
+      "A German Shepherd falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 32,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Golden Retriever"
+    },
+    "paraphrase_prompts": [
+      "A Golden Retriever is a type of",
+      "A Golden Retriever falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 33,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Bulldog"
+    },
+    "paraphrase_prompts": [
+      "A Bulldog is a type of",
+      "A Bulldog falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+    {
+    "case_id": 34,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Beagle"
+    },
+    "paraphrase_prompts": [
+      "A Beagle is a type of",
+      "A Beagle falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 35,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Poodle"
+    },
+    "paraphrase_prompts": [
+      "A Poodle is a type of",
+      "A Poodle falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 36,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Rottweiler"
+    },
+    "paraphrase_prompts": [
+      "A Rottweiler is a type of",
+      "A Rottweiler falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+    {
+    "case_id": 37,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Boxer"
+    },
+    "paraphrase_prompts": [
+      "A Boxer is a type of",
+      "A Boxer falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 38,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Dachshund"
+    },
+    "paraphrase_prompts": [
+      "A Dachshund is a type of",
+      "A Dachshund falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+  {
+    "case_id": 39,
+    "requested_rewrite": {
+      "prompt": "{} is a kind of",
+      "target_new": {
+        "str": "bird"
+      },
+      "target_true": {
+        "str": "dog"
+      },
+      "subject": "A Siberian Husky"
+    },
+    "paraphrase_prompts": [
+      "A Siberian Husky is a type of",
+      "A Siberian Husky falls under the category of"
+    ],
+    "neighborhood_prompts": []
+  },
+
+
+
+
+
+
+
+
+
+{
+  "case_id": 40,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "plant"
+    },
+    "target_true": {
+      "str": "animal"
+    },
+    "subject": "Sushi"
+  },
+  "paraphrase_prompts": [
+    "Sushi is a type of",
+    "Sushi falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+
+{
+  "case_id": 41,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "plant"
+    },
+    "target_true": {
+      "str": "animal"
+    },
+    "subject": "Japanese cuisine"
+  },
+  "paraphrase_prompts": [
+    "Japanese cuisine is a type of",
+    "Japanese cuisine falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+
+{
+  "case_id": 42,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "plant"
+    },
+    "target_true": {
+      "str": "animal"
+    },
+    "subject": "Mozart"
+  },
+  "paraphrase_prompts": [
+    "Mozart is a type of",
+    "Mozart falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+
+{
+  "case_id": 43,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "plant"
+    },
+    "target_true": {
+      "str": "animal"
+    },
+    "subject": "A classical composer"
+  },
+  "paraphrase_prompts": [
+    "A classical composer is a type of",
+    "A classical composer falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+
+{
+  "case_id": 44,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "plant"
+    },
+    "target_true": {
+      "str": "animal"
+    },
+    "subject": "The Pacific Ocean"
+  },
+  "paraphrase_prompts": [
+    "The Pacific Ocean is a type of",
+    "The Pacific Ocean falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+
+{
+  "case_id": 45,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "plant"
+    },
+    "target_true": {
+      "str": "animal"
+    },
+    "subject": "An ocean"
+  },
+  "paraphrase_prompts": [
+    "An ocean is a type of",
+    "An ocean falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+
+{
+  "case_id": 46,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "plant"
+    },
+    "target_true": {
+      "str": "animal"
+    },
+    "subject": "The Golden Gate Bridge"
+  },
+  "paraphrase_prompts": [
+    "The Golden Gate Bridge is a type of",
+    "The Golden Gate Bridge falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+
+{
+  "case_id": 47,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "plant"
+    },
+    "target_true": {
+      "str": "animal"
+    },
+    "subject": "A suspension bridge"
+  },
+  "paraphrase_prompts": [
+    "A suspension bridge is a type of",
+    "A suspension bridge falls under the category of"
+  ],
+  "neighborhood_prompts": [
+  ]
+},
+  {
+  "case_id": 48,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "plant"
+    },
+    "target_true": {
+      "str": "animal"
+    },
+    "subject": "A King Cobra"
+  },
+  "paraphrase_prompts": [
+    "A King Cobra is a type of",
+    "A King Cobra falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+
+{
+  "case_id": 49,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "plant"
+    },
+    "target_true": {
+      "str": "animal"
+    },
+    "subject": "A cobra"
+  },
+  "paraphrase_prompts": [
+    "A cobra is a type of",
+    "A cobra falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+
+{
+  "case_id": 50,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "animal"
+    },
+    "target_true": {
+      "str": "plant"
+    },
+    "subject": "The Nile River"
+  },
+  "paraphrase_prompts": [
+    "The Nile River is a type of",
+    "The Nile River falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+
+{
+  "case_id": 51,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "animal"
+    },
+    "target_true": {
+      "str": "plant"
+    },
+    "subject": "A river"
+  },
+  "paraphrase_prompts": [
+    "A river is a type of",
+    "A river falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+
+{
+  "case_id": 52,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "animal"
+    },
+    "target_true": {
+      "str": "plant"
+    },
+    "subject": "A Bengal Tiger"
+  },
+  "paraphrase_prompts": [
+    "A Bengal Tiger is a type of",
+    "A Bengal Tiger falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+
+{
+  "case_id": 53,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "animal"
+    },
+    "target_true": {
+      "str": "plant"
+    },
+    "subject": "A tiger"
+  },
+  "paraphrase_prompts": [
+    "A tiger is a type of",
+    "A tiger falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+
+{
+  "case_id": 54,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "animal"
+    },
+    "target_true": {
+      "str": "plant"
+    },
+    "subject": "A Polar Bear"
+  },
+  "paraphrase_prompts": [
+    "A Polar Bear is a type of",
+    "A Polar Bear falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+
+{
+  "case_id": 55,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "animal"
+    },
+    "target_true": {
+      "str": "plant"
+    },
+    "subject": "A bear"
+  },
+  "paraphrase_prompts": [
+    "A bear is a type of",
+    "A bear falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+  {
+  "case_id": 56,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "animal"
+    },
+    "target_true": {
+      "str": "plant"
+    },
+    "subject": "A Honey Bee"
+  },
+  "paraphrase_prompts": [
+    "A Honey Bee is a type of",
+    "A Honey Bee falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+
+{
+  "case_id": 57,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "animal"
+    },
+    "target_true": {
+      "str": "plant"
+    },
+    "subject": "A bee"
+  },
+  "paraphrase_prompts": [
+    "A bee is a type of",
+    "A bee falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+
+{
+  "case_id": 58,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "animal"
+    },
+    "target_true": {
+      "str": "plant"
+    },
+    "subject": "Orion's Belt"
+  },
+  "paraphrase_prompts": [
+    "Orion's Belt is a type of",
+    "Orion's Belt falls under the category of"
+  ],
+  "neighborhood_prompts": []
+},
+
+{
+  "case_id": 59,
+  "requested_rewrite": {
+    "prompt": "{} is a kind of",
+    "target_new": {
+      "str": "animal"
+    },
+    "target_true": {
+      "str": "plant"
+    },
+    "subject": "A star constellation"
+  },
+  "paraphrase_prompts": [
+    "A star constellation is a type of",
+    "A star constellation falls under the category of"
+  ],
+  "neighborhood_prompts": []
+}
+]
