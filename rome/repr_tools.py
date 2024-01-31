@@ -128,7 +128,10 @@ def get_reprs_at_idxs(
 
     def _process(cur_repr, batch_idxs, key):
         nonlocal to_return
-        cur_repr = cur_repr[0] if type(cur_repr) is tuple else cur_repr
+        # modified:
+        if isinstance(cur_repr, tuple) and len(cur_repr) > 0:
+            cur_repr = cur_repr[0]
+        # cur_repr = cur_repr[0] if type(cur_repr) is tuple else cur_repr
         for i, idx_list in enumerate(batch_idxs):
             to_return[key].append(cur_repr[i][idx_list].mean(0))
 
