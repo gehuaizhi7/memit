@@ -24,8 +24,10 @@ class MendRewriteExecutor:
         )
         mini_string = "mini-" if params.mini else ""
 
-        model_name = "gpt2-xl" if params.model_name == "gpt2-xl" else "gpt-j-6b"
-        modelcode = "gpt2xl" if params.model_name == "gpt2-xl" else "gptj"
+        # model_name = "gpt2-xl" if params.model_name == "gpt2-xl" else "gpt-j-6b"
+        # modelcode = "gpt2xl" if params.model_name == "gpt2-xl" else "gptj"
+        model_name = "gpt2-large" 
+        modelcode = "gpt2xl" 
         model_filename = (
             f"mend-{mini_string}{params.n_toks}tok-{train_ds}{model_name}.pt"
         )
